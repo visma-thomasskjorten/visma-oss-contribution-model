@@ -188,9 +188,10 @@ will have to do a forced push to replace them.
 
 # Improving documentation
 
-People who like writing documentation without pay are precious and
-should be celebrated whenever possible.  If you find errors or missing
-documentation and like to patch the gap, it is generally very welcome.
+There are not that many people who enjoy writing documentation for
+free, so open source can be lacking in documention.  If you find
+errors or missing documentation and like to patch the gap, it will be
+much appreciated by the maintainers.
 
 Most projects maintain the documentation as part of the code
 repository, either as markdown files or inline code documentation
